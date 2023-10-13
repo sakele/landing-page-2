@@ -118,3 +118,26 @@ button {
     font-size: 18px;
     color: slategray;
 }
+
+.section-3 {
+    background-color: #E5E7EB;
+    display: flex;
+    padding: 200px;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+}
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-speaker {
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 24px;
+}

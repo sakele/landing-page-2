@@ -173,3 +173,13 @@ button.call-button {
     border-radius: 8px;
 
 }
+
+.footer {
+    margin-top: auto;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+    padding: 40px;
+}

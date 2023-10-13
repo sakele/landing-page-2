@@ -1,0 +1,31 @@
+body {
+    font-family: "Roboto", Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 24px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.header {
+    display: flex;
+    background-color: #1F2937;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
